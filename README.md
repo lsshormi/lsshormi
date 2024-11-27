@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **l.s.shormi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/11EMnHpf_2q6zYDulHQA4CZMEhPyJZOdm?usp=drive_link](https://drive.google.com/drive/folders/11EMnHpf_2q6zYDulHQA4CZMEhPyJZOdm?usp=drive_link)
+- 📄 Know about my experiences [CV/Resume](https://drive.google.com/drive/folders/11EMnHpf_2q6zYDulHQA4CZMEhPyJZOdm?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
