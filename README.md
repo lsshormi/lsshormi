@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as **a Software Quality Assurance (SQA) Trainee and am seeking an opportunity for career advancement.**
+- 🔭 I’m currently working as **a Software Quality Assurance (SQA) Engineer and am seeking an opportunity for career advancement.**
 
 - 👯 connect me on **LinkedIn to get more work updates**
 
