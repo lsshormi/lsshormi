@@ -1,39 +1,76 @@
-<h1>Hi There! I'm Lasmin Sultana Shormi</h1>
+<h1>Hi There! 👋 I'm Lasmin Sultana Shormi</h1>
 
-### **Software Development Engineer in Test (SDET) | Future IT Project Manager**  
+<p>
+  <b>Software Development Engineer in Test (SDET)</b> | <i>Aspiring IT Project / Product Manager</i>  
+</p>
 
-### **About Me:**  
-A dedicated **Software Quality Assurance (SQA) Engineer** transitioning into an **SDET role**, with a strong foundation in **test automation, API testing, and Manual testing**. Passionate about **building robust, scalable, and efficient test automation frameworks**, I ensure high-quality software through continuous testing, automation, and Agile best practices.  
+---
 
-Currently pursuing **Google’s Project Management certification**, I aim to integrate my technical expertise with **leadership and Agile project management skills** to drive seamless software development lifecycles. My long-term vision is to **grow into a hybrid role combining test automation, and IT project management** while keeping up with advancements in AI-driven testing and preparing for future leadership roles.  
+## 👩‍💻 About Me
 
-🔭 **Current Role:** Software Quality Assurance (SQA) Engineer with hands-on experience in test automation, API testing, and Manual testing.  
+I'm a passionate **Software Quality Assurance (SQA) Engineer** evolving into an **SDET**, with hands-on experience in **automation**, **API testing**, and **manual testing**. I enjoy building **robust and scalable test automation frameworks** and ensuring software quality through **Agile best practices**.
 
-🚀 **Career Goal:** To excel as an **SDET and IT Project Manager**, combining technical & leadership skills. bridging the gap between automation, DevOps, and Agile methodologies.  
+📜 I recently completed a **hands-on SQA professional training** and **Google’s Project Management Certificate**, and I'm currently enrolled in an **advanced automation testing course** to strengthen my expertise in **Selenium, Playwright, and Appium** using **Python**. My vision is to bridge the gap between **technical QA** and **Agile IT project management** while exploring innovations in **AI-driven testing**.
 
+---
 
-🌱 **Current Focus:**  
-🔸 Expanding expertise in **automation testing (Selenium, Playwright, Appium)**  
-🔸 Advancing API & Performance testing with **Postman, JMeter**  
-🔸 Strengthening **Agile Project Management** with Google’s PM certification  
-🔸 Learning **DevOps & CI/CD pipelines** to enhance automation workflows  
- 
-📌 **Tech Stack & Expertise:**  
-✔ Software Testing: **Manual Testing, Automation Testing, API Testing, Performance Testing**     
-✔ Testing Tools: **Selenium, Playwright, Appium, Postman, Newman, JMeter, Cucumber**     
-✔ Programming: **Python, Java, **Familiar:** JavaScript**     
-✔ Database Management: **MySQL. PostgreSQL**    
-✔ CI/CD & DevOps: **Jenkins, Docker, GitHub Actions**    
-✔ Agile & PM: **Jira, Scrum, SDLC, STLC, Google Project Management**    
+## 🚀 Career Goals
 
+- Excel as a **Software Development Engineer in Test (SDET)**
+- Transition into **IT Project/Product Management**
+- Lead end-to-end quality and delivery across software lifecycles
 
-👥 **Let’s Connect!** If you’re passionate about **QA, Automation, IT Project Management or Agile PM, or career growth in the tech industry**, I’m always open to **tech discussions, collaborations, and learning opportunities.**  
+---
 
-💬 **Talk to me about:** SDET, Test Automation, Agile Project Management, DevOps, Python, Career Growth, and Industry Trends.  
+## 🌱 Currently Focusing On
 
-- 📫 How to reach me **l.s.shormi@gmail.com**
+🔹 Test Automation: Selenium, Playwright, Appium  
+🔹 API & Performance Testing: Postman, Newman, JMeter  
+🔹 Agile Project Management: Google PM Certification  
+🔹 CI/CD Integration: Jenkins, GitHub Actions  
+🔹 Learning: Test Automation with Python  
 
-- 📄 Know about my experiences [CV/Resume](https://drive.google.com/drive/folders/11EMnHpf_2q6zYDulHQA4CZMEhPyJZOdm?usp=drive_link)
+---
+
+## 🛠️ Tech Stack
+
+| Domain          | Tools & Technologies                                                                 |
+|------------------|---------------------------------------------------------------------------------------|
+| 🧪 Testing         | Manual, Automation, API, Performance                                                  |
+| 🛠 Tools           | Selenium, Playwright, Appium, Postman, Newman, JMeter, Cucumber                       |
+| 💻 Languages       | Python, Java (familiar with JavaScript)                                               |
+| 🗃️ Databases       | MySQL, SQL                                                                            |
+| 🔁 CI/CD           | Jenkins, GitHub Actions                                                               |
+| 📋 Methodologies   | Agile, Scrum, Kanban, SDLC, STLC                                                      |
+| 🧩 Project Tools   | Jira, Google Project Management                                                       |
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussions on:
+
+✅ Test Automation & SDET best practices  
+📈 Agile Project Management  
+🐍 Python/Java for testing  
+🌐 Career Growth & Industry Trends
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/11EMnHpf_2q6zYDulHQA4CZMEhPyJZOdm?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-CV/Resume-red?style=for-the-badge&logo=google-drive" />
+  </a>
+  <a href="mailto:l.s.shormi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “Quality is never an accident; it is always the result of intelligent effort.” — John Ruskin
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,7 +85,7 @@ Currently pursuing **Google’s Project Management certification**, I aim to int
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsshormi&show_icons=true&locale=en&layout=compact" alt="lsshormi" /></p>
 
@@ -56,4 +93,4 @@ Currently pursuing **Google’s Project Management certification**, I aim to int
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsshormi&" alt="lsshormi" /></p>
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 87.44 % as on ⏰ 16-Nov-2024
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 87.44 % as on ⏰ 15-Feb-2025
